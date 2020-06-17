@@ -20,17 +20,22 @@ primarylinks:
    url: https://www.linkedin.com/in/bryan-daniel-sandoval-gaytan-b85821149
 
 abilities:
- - English & Spanish
-
+ - Spanish (First Language)
+ - Leadership
+ - Organization
+ - Critical Thinking
+ - Inquirer
+ - Problem Solver
+ 
 #Any buzzword skills you want to include
 skills:
  - MATLAB
  - FUSION 360
  - AUTOCAD
  - PID Controllers
- - GD&T
  - Assembly Language for Microcontrollers
  - Microsoft Office
+ - Basic GD&T
  - Basic ROS
  - Basic python
  - Basic LabVIEW
