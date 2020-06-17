@@ -105,7 +105,7 @@ speakerdeck:
 #   profileurl: https://stackoverflow.com/users/258813/rhinds
 #   flairimageurl: https://stackoverflow.com/users/flair/258813.png
 
-intro: |
+intro: |hola
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
