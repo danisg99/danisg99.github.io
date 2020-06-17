@@ -1,5 +1,5 @@
 # Site settings
-title: Bryan Sandoval´s CV
+title: Bryan D. Sandoval´s CV
 name: Bryan Daniel Sandoval Gaytan
 
 # Build settings
@@ -21,21 +21,19 @@ primarylinks:
 
 #Any buzzword skills you want to include
 skills:
- - Scala
- - Akka-http
- - Microservices
- - Slick
- - Product management
- - API design
- - Groovy
- - Spring MVC/Boot/Social
- - Gradle
- - Java
- - JPA
- - SQL
- - REST
- - Technical Architecture
- - Machine learning
+ - English & Spanish
+ - MATLAB
+ - FUSION 360
+ - AUTOCAD
+ - PID Controllers
+ - GD&T
+ - Assembly Language for Microcontrollers
+ - Microsoft Office
+ - Basic ROS
+ - Basic python
+ - Basic LabVIEW
+ - Basic SOLIDWORKS
+ - Basic PROTEUS
 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
 blogfeed: https://automateddeveloper.blogspot.com/feeds/posts/default?alt=json
