@@ -19,9 +19,11 @@ primarylinks:
  - title: LinkedIn
    url: https://www.linkedin.com/in/bryan-daniel-sandoval-gaytan-b85821149
 
+abilities:
+ - English & Spanish
+
 #Any buzzword skills you want to include
 skills:
- - English & Spanish
  - MATLAB
  - FUSION 360
  - AUTOCAD
